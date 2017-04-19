@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hass/Downloads/EmPubLite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/hass/Downloads/EmPubLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3d9fe8fded651bdd4e8bd72baedafcebbe3832ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hass/Downloads/EmPubLite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ef92ff9bf9ecec4bc60717f7bcf5f3375662d98">
+        <dex dex="/Users/hass/Downloads/EmPubLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a271f84db0a8a8e4113b9823c67232b954703206/classes.dex" />
+    </item>
+
+</items>

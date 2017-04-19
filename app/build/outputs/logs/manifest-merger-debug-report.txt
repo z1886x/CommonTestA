@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:4:5-40
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:6:5-10:40
+	android:largeScreens
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:7:9-36
+	android:smallScreens
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:9:9-37
+	android:normalScreens
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:8:9-37
+	android:xlargeScreens
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:10:9-37
+application
+ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:11:5-25:19
+	android:supportsRtl
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:14:9-41
+	tools:ignore
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:17:9-48
+	android:icon
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.commonsware.empublite.EmPubLiteActivity
+ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:18:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hass/Downloads/EmPubLite/app/src/main/AndroidManifest.xml
